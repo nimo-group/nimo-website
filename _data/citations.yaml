@@ -1,21 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1161/STROKEAHA.125.050848
-  title: Comparison of the Novel Thrombolytic Constitutively Active ADAMTS13 With
-    Clinical Thrombolytics in a Murine Stroke Model
-  authors:
-  - Lucy Roberts
-  - Graham Coutts
-  - Ben R. Dickie
-  - Craig J. Smith
-  - Kieron South
-  - Stuart M. Allan
-  publisher: Stroke
-  date: '2025-06-01'
-  link: https://doi.org/g9q2jb
-  orcid: 0000-0001-5018-2111
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1177/0271678X251318923
   title: "Early metabolic changes in the brain of Alzheimer\u2019s disease rats are\
     \ driven by GLAST+ cells"
@@ -33,6 +17,22 @@
   publisher: Journal of Cerebral Blood Flow &amp; Metabolism
   date: '2025-02-07'
   link: https://doi.org/g9q2jc
+  orcid: 0000-0001-5018-2111
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/STROKEAHA.125.050848
+  title: Comparison of the Novel Thrombolytic Constitutively Active ADAMTS13 With
+    Clinical Thrombolytics in a Murine Stroke Model
+  authors:
+  - Lucy Roberts
+  - Graham Coutts
+  - Ben R. Dickie
+  - Craig J. Smith
+  - Kieron South
+  - Stuart M. Allan
+  publisher: Stroke
+  date: '2025-06-01'
+  link: https://doi.org/g9q2jb
   orcid: 0000-0001-5018-2111
   plugin: orcid.py
   file: orcid.yaml
@@ -350,6 +350,396 @@
   date: '2015-10-19'
   link: https://doi.org/f9dhmb
   orcid: 0000-0001-5018-2111
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.07.09.602800
+  title: Longitudinal Multi-Tensor Analysis of Neocortical Microstructure in an Animal
+    Model of Cortical Dysplasia
+  authors:
+  - "Paulina J. Villasen\xF5r"
+  - "Hiram Luna-Mungu\xEDa"
+  - Alonso Ramirez-Manzanares
+  - Ricardo Coronado-Leija
+  - Luis Concha
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-15'
+  link: https://doi.org/10.1101/2024.07.09.602800
+  orcid: 0009-0001-7928-9390
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38443731
+  title: Selective Medial Septum Lesions in Healthy Rats Induce Longitudinal Changes
+    in Microstructure of Limbic Regions, Behavioral Alterations, and Increased Susceptibility
+    to Status Epilepticus.
+  authors:
+  - Hiram Luna-Munguia
+  - Deisy Gasca-Martinez
+  - Alejandra Garay-Cortes
+  - "Daniela Couti\xF1o"
+  - Mirelta Regalado
+  - Ericka de Los Rios
+  - "Paulina Villase\xF1or"
+  - Fernando Hidalgo-Flores
+  - Karen Flores-Guapo
+  - Brandon Yair Benito
+  - Luis Concha
+  publisher: Molecular neurobiology
+  date: '2024-03-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38443731
+  orcid: 0009-0001-7928-9390
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37342776
+  title: Multi-tensor diffusion abnormalities of gray matter in an animal model of
+    cortical dysplasia.
+  authors:
+  - "Paulina J Villase\xF1or"
+  - "David Cort\xE9s-Serv\xEDn"
+  - "Ayl\xEDn P\xE9rez-Moriel"
+  - Ana Aquiles
+  - "Hiram Luna-Mungu\xEDa"
+  - Alonso Ramirez-Manzanares
+  - Ricardo Coronado-Leija
+  - Jorge Larriva-Sahd
+  - Luis Concha
+  publisher: Frontiers in neurology
+  date: '2023-05-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37342776
+  orcid: 0009-0001-7928-9390
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ynirp.2025.100258
+  title: Non-invasive brain stimulation reorganises effective connectivity during
+    a working memory task in individuals with Neurofibromatosis Type 1
+  authors:
+  - "Marta Czime Litwi\u0144czuk"
+  - Shruti Garg
+  - Stephen R. Williams
+  - Jonathan Green
+  - Caroline Lea-Carnall
+  - Nelson J. Trujillo-Barreto
+  publisher: 'NeuroImage: Reports'
+  date: '2025-06-01'
+  link: https://doi.org/10.1016/j.ynirp.2025.100258
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevResearch.7.023128
+  title: Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic
+    rewiring through inhibitory plasticity
+  authors:
+  - Mojtaba Madadi Asl
+  - Caroline A. Lea-Carnall
+  publisher: Physical Review Research
+  date: '2025-05-09'
+  link: https://doi.org/10.1103/physrevresearch.7.023128
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.04.30.651283
+  title: Frequency-Dependent Neurostimulation in Whole Brain Network models
+  authors:
+  - "M\xF3nica Otero"
+  - Elida Poo
+  - Felipe Torres
+  - Cristobal Mendoza
+  - Caroline Lea-Carnall
+  - Alejandro Weinstein
+  - Pamela Guevara
+  - Pavel Prado
+  - Joana Cabral
+  - Wael El-Deredy
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-04'
+  link: https://doi.org/g9q773
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.04.14.25325776
+  title: Anxiety, brain structure and socioeconomic status in middle-aged and older
+    adults
+  authors:
+  - Sasha Johns
+  - Caroline Lea-Carnall
+  - Nick Shryane
+  - Asri Maharani
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-16'
+  link: https://doi.org/g9q774
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.04.10.648183
+  title: Fronto-parietal effective connectivity during working memory in Neurofibromatosis
+    Type 1 adolescents and neurotypical controls
+  authors:
+  - "Marta Czime Litwi\u0144czuk"
+  - Shruti Garg
+  - Jonathan Green
+  - Caroline Lea-Carnall
+  - Nelson J Trujillo-Barreto
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-14'
+  link: https://doi.org/g9q775
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.04.10.648210
+  title: Functional connectivity reveals increased network segregation and sensorimotor
+    processing during working memory in adolescents with Neurofibromatosis Type 1
+  authors:
+  - "Marta Czime Litwi\u0144czuk"
+  - Nelson J Trujillo-Barreto
+  - Jeyoung Jung
+  - Shruti Garg
+  - Caroline Lea-Carnall
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-14'
+  link: https://doi.org/g9q776
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.28.25324840
+  title: Quantitative Grey/White Matter Myelin differences in Neurofibromatosis Type-1
+    using T1W/T2W ratio
+  authors:
+  - Varun Arunachalam Chandran
+  - Caroline Lea-Carnall
+  - Stavros Stivaros
+  - Grace Vassallo
+  - Nils Muhlert
+  - Shruti Garg
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-30'
+  link: https://doi.org/g9q778
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1055/a-2505-5657
+  title: Cortical Neurotransmitters Measured by Magnetic Resonance Spectroscopy Change
+    Following Traumatic Brachial Plexus Injury
+  authors:
+  - Ryckie G. Wade
+  - "Gr\xE1inne Bourke"
+  - Alexandra M. Olaru
+  - Stephen R. Williams
+  - David Shelley
+  - Sven Plein
+  - Robert D. Bains
+  - James D. Bedford
+  - Lucy E. Homer Newton
+  - Chye Yew Ng
+  - Laura Parkes
+  - Caroline Lea-Carnall
+  publisher: Journal of Brachial Plexus and Peripheral Nerve Injury
+  date: '2025-01-01'
+  link: https://doi.org/g9q779
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-024-80510-2
+  title: Emergence of multiple spontaneous coherent subnetworks from a single configuration
+    of human connectome coupled oscillators model
+  authors:
+  - Felipe A. Torres
+  - "M\xF3nica Otero"
+  - Caroline A. Lea-Carnall
+  - Joana Cabral
+  - Alejandro Weinstein
+  - Wael El-Deredy
+  publisher: Scientific Reports
+  date: '2024-12-28'
+  link: https://doi.org/g9q78b
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/nbm.5240
+  title: 'Evidence for biexponential glutamate T<sub>2</sub> relaxation in human visual
+    cortex at 3T: A functional MRS study'
+  authors:
+  - Polina Emeliyanova
+  - Laura M. Parkes
+  - Stephen R. Williams
+  - "Caroline Lea\u2010Carnall"
+  publisher: NMR in Biomedicine
+  date: '2024-08-27'
+  link: https://doi.org/g9q78c
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.10.16.618671
+  title: Effects of non-invasive brain stimulation on effective connectivity during
+    working memory task in Neurofibromatosis Type 1 patients
+  authors:
+  - "Marta Czime Litwi\u0144czuk"
+  - Shruti Garg
+  - Stephen R. Williams
+  - Jonathan Green
+  - Caroline Lea-Carnall
+  - Nelson J Trujillo-Barreto
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-18'
+  link: https://doi.org/g9q78d
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.08.20.24312289
+  title: 'Structural brain correlates of depression and anxiety in middle-aged and
+    older adults: A systematic review'
+  authors:
+  - Sasha Johns
+  - Asri Maharani
+  - Caroline Lea-Carnall
+  - Nick Shryane
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-08-20'
+  link: https://doi.org/g9q78f
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.07.01.601477
+  title: Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic
+    rewiring through inhibitory plasticity
+  authors:
+  - Mojtaba Madadi Asl
+  - Caroline A. Lea-Carnall
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-04'
+  link: https://doi.org/g9q78g
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.01.09.574845
+  title: Emergence of multiple spontaneous coherent subnetworks from a single configuration
+    of human connectome-coupled oscillators model
+  authors:
+  - Felipe A. Torres
+  - "M\xF3nica Otero"
+  - Caroline Lea-Carnall
+  - Joana Cabral
+  - Alejandro Weinstein
+  - Wael El-Deredy
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-01-09'
+  link: https://doi.org/g9q78h
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2670120
+  title: 'Beyond global synchrony: equivalence between Kuramoto oscillators and Wilson-Cowan
+    model for large-scale brain networks'
+  authors:
+  - Ahmed H. Abd-Elrazik
+  - Felipe A. Torres
+  - "M\xF3nica Otero"
+  - Caroline A. Lea-Carnall
+  - Wael El-Deredy
+  publisher: 18th International Symposium on Medical Information Processing and Analysis
+  date: '2023-03-06'
+  link: https://doi.org/g9q78j
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fncom.2023.1017075
+  title: Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity
+  authors:
+  - Caroline A. Lea-Carnall
+  - Lisabel I. Tanner
+  - Marcelo A. Montemurro
+  publisher: Frontiers in Computational Neuroscience
+  date: '2023-02-02'
+  link: https://doi.org/g9q78k
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2022.119813
+  title: A mean-field model of glutamate and GABA synaptic dynamics for functional
+    MRS
+  authors:
+  - Caroline A. Lea-Carnall
+  - Wael El-Deredy
+  - Charlotte J. Stagg
+  - Stephen R. Williams
+  - Nelson J. Trujillo-Barreto
+  publisher: NeuroImage
+  date: '2023-02-01'
+  link: https://doi.org/g9q78m
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.09.10.459802
+  title: 'Modelling neural entrainment and its persistence: influence of frequency
+    of stimulation and phase at the stimulus offset'
+  authors:
+  - "M\xF3nica Otero"
+  - Caroline Lea-Carnall
+  - Pavel Prado
+  - "Mar\xEDa-Jos\xE9 Escobar"
+  - Wael El-Deredy
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-09-11'
+  link: https://doi.org/gsz2qf
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.03.11.434540
+  title: 'From synaptic activity to human in vivo quantification of neurotransmitter
+    dynamics: a neural modelling approach'
+  authors:
+  - Caroline A. Lea-Carnall
+  - Wael El-Deredy
+  - Stephen R. Williams
+  - Charlotte J. Stagg
+  - Nelson J. Trujillo-Barreto
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-03-12'
+  link: https://doi.org/gszv93
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ejn.14618
+  title: Number of subjects required in common study designs for functional GABA magnetic
+    resonance spectroscopy in the human brain at 3 Tesla
+  authors:
+  - Faezeh Sanaei Nezhad
+  - "Caroline A. Lea\u2010Carnall"
+  - Adriana Anton
+  - JeYoung Jung
+  - Emilia Michou
+  - Stephen R. Williams
+  - Laura M. Parkes
+  publisher: European Journal of Neuroscience
+  date: '2019-12-11'
+  link: https://doi.org/gm67hx
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1620988114
+  title: Evidence for frequency-dependent cortical plasticity in the human brain
+  authors:
+  - Caroline A. Lea-Carnall
+  - Nelson J. Trujillo-Barreto
+  - Marcelo A. Montemurro
+  - Wael El-Deredy
+  - Laura M. Parkes
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-08-01'
+  link: https://doi.org/gbtsbs
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1004740
+  title: Cortical Resonance Frequencies Emerge from Network Size and Connectivity
+  authors:
+  - Caroline A. Lea-Carnall
+  - Marcelo A. Montemurro
+  - Nelson J. Trujillo-Barreto
+  - Laura M. Parkes
+  - Wael El-Deredy
+  publisher: PLOS Computational Biology
+  date: '2016-02-25'
+  link: https://doi.org/f8twmw
+  orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128

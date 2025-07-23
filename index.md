@@ -1,7 +1,7 @@
 ---
 ---
 
-# NeuroImaging and MOdelling group
+# NeuroImaging and MOdelling group 
 
 Our research focusses on development and application of neuroimaging and modelling approaches to study brain physiology.
 

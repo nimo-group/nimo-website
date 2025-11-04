@@ -1,10 +1,11 @@
 ---
-name: John Doe
+name: Ben Leverton
 image: images/photo.jpg
-role: phd
-group: alum
+description: Research technician (Preclinical)
+role: technician
 links:
-  github: john-doe
+  email: ben.leverton@manchester.ac.uk
+  twitter: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

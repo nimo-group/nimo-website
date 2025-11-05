@@ -7,14 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 {% include section.html %}
 
-## Highlighted
+## Most recent publication
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% assign sorted_citations = site.data.citations | sort: "date" | reverse %}
+{% assign most_recent_citation = sorted_citations | first %}
+
+{% include citation.html lookup=most_recent_citation.title style="rich" %}
 
 {% include section.html %}
 

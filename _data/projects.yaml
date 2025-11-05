@@ -1,3 +1,5 @@
+## THis is for the clinical section
+
 - title: Cool Dataset
   subtitle: a subtitle
   group: featured
@@ -18,27 +20,36 @@
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+
+## THis is for the preclinical section
+
+
+- title: Blood-brain barrier dysfunction
+  image: images/bbb.jpeg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Growing evidence supports that BBB dysfunction is a key factor in the development of neurodegenerative diseases. Here we use animal models to explore BBB mechanisms in pathological conditions using advanced imaging techniques.
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Modelling the glymphatic system
   image: images/photo.jpg
+  link: https://github.com/
+  description: The glymphatics system facilitates the clearence of metabolic waste products from the brain by regulating the influx of CSF and exchange within the interstitial space. We use novel modelling and imaging approaches using MRI to study fluid dynamics of the glymphatic system. 
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Water exchange modelling and imaging
+  image: images/fexi.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Effects of radiotherapy on cerebrovasculature
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

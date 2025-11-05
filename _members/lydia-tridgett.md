@@ -1,6 +1,6 @@
 ---
 name: Lydia Tridgett
-image: images/member-photos/BW/lydia_tridgett.jpg
+image: images/member-photos/BW/lydia_tridgett.jpeg
 role: phd
 description: PhD Student
 group: Andrew Greenhalgh

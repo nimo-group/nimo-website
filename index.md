@@ -1,12 +1,11 @@
 ---
 ---
 
-# nimo-group's Website
+# **N**euro**I**maging and **MO**delling group 
 
-An engaging 1-3 sentence description of your lab.
-
-{% include section.html %}
-
+<div style="text-align: center; font-size: 24px;">
+Our research focusses on development and application of neuroimaging and modelling approaches to study brain physiology.
+</div>
 ## Highlights
 
 {% capture text %}

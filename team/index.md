@@ -9,7 +9,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Meet the team
 <div style="text-align: center; font-size: 20px;">
 
-We are an multidisciplinary group of physicists, clinicians and neuroscientist focused in applying and developing imaging methods to study the brain in normal and pathological conditions, with an ephasis in neurofluids, stroke, dementia and brain plasticity. 
+We are a multidisciplinary team of physicists, clinicians, and neuroscientists dedicated to developing and applying advanced imaging methods to study the brain in both healthy and pathological conditions, with a particular emphasis on neurofluids, stroke, dementia, and brain plasticity.
 
 </div>
 
@@ -18,12 +18,14 @@ We are an multidisciplinary group of physicists, clinicians and neuroscientist f
 ## Principle Investigators
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
+## Technical Specialists
+{% include list.html data="members" component="portrait" filter="role == 'experimental-officer'" %}
+{% include list.html data="members" component="portrait" filter="role == 'technician'" %}
+
+
 ## Junior Fellows and Postdoctoral Researchers
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
-## Technical Support Staff
-{% include list.html data="members" component="portrait" filter="role == 'experimental-officer'" %}
-{% include list.html data="members" component="portrait" filter="role == 'technician'" %}
 
 ## PhD Students
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}

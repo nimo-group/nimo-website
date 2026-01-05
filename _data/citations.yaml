@@ -291,6 +291,28 @@
   orcid: 0009-0001-7928-9390
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.64898/2025.12.09.25341878
+  title: Mapping myelin alterations in Neurofibromatosis Type 1 using Magnetization
+    Transfer and T1W/T2W Ratio Imaging
+  authors:
+  - Varun Arunachalam Chandran
+  - Caroline Lea-Carnall
+  - Yuping Yang
+  - Anna Wild
+  - Matthew McCowen
+  - Grace Vassallo
+  - Jonathan Green
+  - Hamied Haroon
+  - William Lloyd
+  - Stavros Stivaros
+  - Nils Muhlert
+  - Shruti Garg
+  publisher: openRxiv
+  date: '2025-12-11'
+  link: https://doi.org/hbfm2x
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ynirp.2025.100258
   title: Non-invasive brain stimulation reorganises effective connectivity during
     a working memory task in individuals with Neurofibromatosis Type 1
@@ -663,7 +685,7 @@
   publisher: iScience
   date: '2020-11-01'
   link: https://doi.org/gmfxkn
-  orcid: 0000-0001-6488-507X
+  orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/ejn.14618
@@ -680,7 +702,7 @@
   publisher: European Journal of Neuroscience
   date: '2019-12-11'
   link: https://doi.org/gm67hx
-  orcid: 0000-0001-6488-507X
+  orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1620988114
@@ -694,7 +716,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2017-08-01'
   link: https://doi.org/gbtsbs
-  orcid: 0000-0001-6488-507X
+  orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1004740
@@ -708,7 +730,7 @@
   publisher: PLOS Computational Biology
   date: '2016-02-25'
   link: https://doi.org/f8twmw
-  orcid: 0000-0001-6488-507X
+  orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
 - title: Brain Imaging and Chronic Inflammation markers of Childhood Trauma
@@ -821,6 +843,120 @@
   publisher: Child's Nervous System
   date: '2025-01-22'
   link: https://doi.org/g9882c
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BRAINRESBULL.2025.111560
+  title: Analysis of the BOLD signal along colour-opponent pathways in LGN and V1
+    and microstructural alterations of the optic radiation in POAG and OHT patients
+  authors:
+  - Joanne L. Powell
+  - Laura M. Parkes
+  - Anshoo Choudhary
+  - Sophie M. Wuerger
+  publisher: Brain Research Bulletin
+  date: '2025-10-01'
+  link: https://doi.org/hbggxn
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BRAINCOMMS/FCAF146
+  title: "Neuroimaging-based data-driven subtypes of spatiotemporal atrophy due to\
+    \ Parkinson\u2019s disease"
+  authors:
+  - Zeena Shawa
+  - Cameron Shand
+  - Beatrice Taylor
+  - Henk W Berendse
+  - Chris Vriend
+  - Tim D van Balkom
+  - Odile A van den Heuvel
+  - Ysbrand D van der Werf
+  - Jiun-jie Wang
+  - Chih-Chien Tsai
+  - Jason Druzgal
+  - Benjamin T Newman
+  - Tracy R Melzer
+  - Toni L Pitcher
+  - John C Dalrymple-Alford
+  - Tim J Anderson
+  - "Ga\xEBtan Garraux"
+  - Mario Rango
+  - Petra Schwingenschuh
+  - Melanie Suette
+  - Laura M Parkes
+  - Sarah Al-Bachari
+  - Johannes Klein
+  - Michele T M Hu
+  - Corey T McMillan
+  - Fabrizio Piras
+  - Daniela Vecchio
+  - Clelia Pellicano
+  - Chengcheng Zhang
+  - Kathleen L Poston
+  - Elnaz Ghasemi
+  - Fernando Cendes
+  - Clarissa L Yasuda
+  - Duygu Tosun
+  - Philip Mosley
+  - Paul M Thompson
+  - Neda Jahanshad
+  - Conor Owens-Walton
+  - "Emile d\u2019Angremont"
+  - Eva M van Heese
+  - Max A Laansma
+  - Andre Altmann
+  - Max A Laansma
+  - Joanna K Bright
+  - Sarah Al-Bachari
+  - Tim J Anderson
+  - Tyler Ard
+  - Francesca Assogna
+  - Katherine A Baquero
+  - Henk W Berendse
+  - Benajmin Newman
+  - Fernando Cendes
+  - John C Dalrymple-Alford
+  - Rob M A de Bie
+  - Ines Debove
+  - Michiel F Dirkx
+  - Jason Druzgal
+  - Hedley C A Emsley
+  - "G\xE4etan Garraux"
+  - "Rachel P Guimar\xE3es"
+  - Boris A Gutman
+  - Rick C Helmich
+  - Johannes C Klein
+  - Clare E Mackay
+  - Corey T McMillan
+  - Tracy R Melzer
+  - Laura M Parkes
+  - Fabrizio Piras
+  - Toni L Pitcher
+  - Kathleen L Poston
+  - Mario Rango
+  - "Let\xEDcia F Ribeiro"
+  - Cristiane S Rocha
+  - Christian Rummel
+  - Lucas S R Santos
+  - Reinhold Schmidt
+  - Petra Schwingenschuh
+  - Gianfranco Spalletta
+  - Letizia Squarcina
+  - Odile A van den Heuvel
+  - Chris Vriend
+  - Jiun-Jie Wang
+  - Daniel Weintraub
+  - Roland Wiest
+  - Clarissa L Yasuda
+  - Neda Jahanshad
+  - Paul M Thompson
+  - Ysbrand D van der Werf
+  - Rimona S Weil
+  - Neil P Oxtoby
+  publisher: Brain Communications
+  date: '2025-01-01'
+  link: https://doi.org/hbggxp
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -964,7 +1100,176 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mds.29611
+- id: doi:10.1038/S41531-024-00825-9
+  title: "A worldwide study of subcortical shape as a marker for clinical staging\
+    \ in Parkinson\u2019s disease"
+  authors:
+  - Max A. Laansma
+  - Yuji Zhao
+  - Eva M. van Heese
+  - Joanna K. Bright
+  - Conor Owens-Walton
+  - Sarah Al-Bachari
+  - Tim J. Anderson
+  - Francesca Assogna
+  - Tim D. van Balkom
+  - Henk W. Berendse
+  - Fernando Cendes
+  - John C. Dalrymple-Alford
+  - Ines Debove
+  - Michiel F. Dirkx
+  - Jason Druzgal
+  - Hedley C. A. Emsley
+  - Jean-Paul Fouche
+  - "Ga\xEBtan Garraux"
+  - "Rachel P. Guimar\xE3es"
+  - Rick C. Helmich
+  - Michele Hu
+  - Odile A. van den Heuvel
+  - Dmitry Isaev
+  - Ho-Bin Kim
+  - Johannes C. Klein
+  - Christine Lochner
+  - Corey T. McMillan
+  - Tracy R. Melzer
+  - Benjamin Newman
+  - Laura M. Parkes
+  - Clelia Pellicano
+  - Fabrizio Piras
+  - Toni L. Pitcher
+  - Kathleen L. Poston
+  - Mario Rango
+  - Leticia F. Ribeiro
+  - Cristiane S. Rocha
+  - Christian Rummel
+  - Lucas S. R. Santos
+  - Reinhold Schmidt
+  - Petra Schwingenschuh
+  - Letizia Squarcina
+  - Dan J. Stein
+  - Daniela Vecchio
+  - Chris Vriend
+  - Jiunjie Wang
+  - Daniel Weintraub
+  - Roland Wiest
+  - Clarissa L. Yasuda
+  - Neda Jahanshad
+  - Paul M. Thompson
+  - Ysbrand D. van der Werf
+  - Boris A. Gutman
+  publisher: npj Parkinson's Disease
+  date: '2024-11-19'
+  link: https://doi.org/g84vjk
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/NEUONC/NOAE064.003
+  title: ATRT-03. PRIMARY DIFFUSE LEPTOMENINGEAL ATYPICAL TERATOID/RHABDOID TUMOR
+    (ATRT) OF CHILDHOOD DEMONSTRATING UNEXPECTED IMPROVEMENT UPON CESSATION OF CONVENTIONAL
+    THERAPY FOR PRESUMED PROGRESSION; A MOLECULARLY CHARACTERIZED CASE REPORT
+  authors:
+  - Stavros Stivaros
+  - Laura Parkes
+  - Rania Bedir
+  - Edmund Cheesman
+  - Dipak Ram
+  - Lydia Leung
+  - Annie Huang
+  - John-Paul Kilday
+  publisher: Neuro-Oncology
+  date: '2024-06-18'
+  link: https://doi.org/hbggxq
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1183/13993003.CONGRESS-2024.OA1965
+  title: Resting-state CNS networks in refractory/unexplained chronic cough
+  authors:
+  - James Wingfield Digby
+  - Rachel Dockry
+  - Shane Mckie
+  - Jenny King
+  - Kimberley Holt
+  - Shannon Galgani
+  - Phil Turner
+  - Paul Czyzyk
+  - Joanne Mitchell
+  - Laura Parkes
+  - Paul Marsden
+  - Kyle Pattinson
+  - Jacky Smith
+  publisher: Airway pharmacology and treatment
+  date: '2024-09-14'
+  link: https://doi.org/hbggxr
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Multi-echo fMRS
+  publisher: fMRS Symposium 2023, Bangor, United Kingdom, 8/09/23
+  date: '2025-08-20'
+  link: https://research.manchester.ac.uk/en/publications/0676998c-9233-4c02-b8cd-ce37de0248c4
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Dependency of proton MR spectroscopy neuro-metabolite concentrations on grey
+    matter fraction and location in the healthy human brain.
+  publisher: Annual Meeting of the International Society for Magnetic Resonance in
+    Medicine (ISMRM)
+  date: '2025-08-20'
+  link: https://research.manchester.ac.uk/en/publications/50b9cf84-5707-4745-92fd-70307ffd5541
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Multi-echo functional MRS Glutamate measurements in visual cortex at 3T
+  publisher: 2023 ISMRM &amp; ISMRT Annual Meeting &amp; Exhibition, Toronto, Canada,
+    3/06/23
+  date: '2025-08-20'
+  link: https://research.manchester.ac.uk/en/publications/37d1744d-441f-40bc-8f78-c276e50efe20
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001084059703252
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001084059703252
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MRM.29616
+  title: "Blood\u2010brain barrier water exchange measurements using FEXI: Impact\
+    \ of modeling paradigm and relaxation time\_effects"
+  authors:
+  - Elizabeth Powell
+  - Yolanda Ohene
+  - Marco Battiston
+  - Ben R. Dickie
+  - Laura M. Parkes
+  - Geoff J. M. Parker
+  publisher: Magnetic Resonance in Medicine
+  date: '2023-03-09'
+  link: https://doi.org/g9q8fg
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/NBM.5009
+  title: "Blood\u2013brain barrier water exchange measurements using contrast\u2010\
+    enhanced ASL"
+  authors:
+  - Elizabeth Powell
+  - Ben R. Dickie
+  - Yolanda Ohene
+  - Mark Maskery
+  - Geoff J. M. Parker
+  - Laura M. Parkes
+  publisher: NMR in Biomedicine
+  date: '2023-09-04'
+  link: https://doi.org/g9q2jg
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MDS.29611
   title: "Cerebellar Volume and Disease Staging in Parkinson's Disease: An <scp>ENIGMA\u2010\
     PD</scp> Study"
   authors:
@@ -1035,7 +1340,16 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s12987-023-00422-7
+- id: wosuid:WOS:001084059703216
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001084059703216
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12987-023-00422-7
   title: "Filter exchange imaging with crusher gradient modelling detects increased\
     \ blood\u2013brain barrier water permeability in response to mild lung infection"
   authors:
@@ -1056,66 +1370,10 @@
   publisher: Fluids and Barriers of the CNS
   date: '2023-04-03'
   link: https://doi.org/g9q8gd
-  orcid: 0000-0002-7994-1166
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/nbm.5009
-  title: "Blood\u2013brain barrier water exchange measurements using contrast\u2010\
-    enhanced ASL"
-  authors:
-  - Elizabeth Powell
-  - Ben R. Dickie
-  - Yolanda Ohene
-  - Mark Maskery
-  - Geoff J. M. Parker
-  - Laura M. Parkes
-  publisher: NMR in Biomedicine
-  date: '2023-09-04'
-  link: https://doi.org/g9q2jg
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- title: Multi-echo fMRS
-  publisher: fMRS Symposium 2023, Bangor, United Kingdom, 8/09/23
-  date: '2025-08-20'
-  link: https://research.manchester.ac.uk/en/publications/0676998c-9233-4c02-b8cd-ce37de0248c4
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/mrm.29616
-  title: "Blood\u2010brain barrier water exchange measurements using FEXI: Impact\
-    \ of modeling paradigm and relaxation time\_effects"
-  authors:
-  - Elizabeth Powell
-  - Yolanda Ohene
-  - Marco Battiston
-  - Ben R. Dickie
-  - Laura M. Parkes
-  - Geoff J. M. Parker
-  publisher: Magnetic Resonance in Medicine
-  date: '2023-03-09'
-  link: https://doi.org/g9q8fg
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Dependency of proton MR spectroscopy neuro-metabolite concentrations on grey
-    matter fraction and location in the healthy human brain.
-  publisher: Annual Meeting of the International Society for Magnetic Resonance in
-    Medicine (ISMRM)
-  date: '2025-08-20'
-  link: https://research.manchester.ac.uk/en/publications/50b9cf84-5707-4745-92fd-70307ffd5541
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Multi-echo functional MRS Glutamate measurements in visual cortex at 3T
-  publisher: 2023 ISMRM &amp; ISMRT Annual Meeting &amp; Exhibition, Toronto, Canada,
-    3/06/23
-  date: '2025-08-20'
-  link: https://research.manchester.ac.uk/en/publications/37d1744d-441f-40bc-8f78-c276e50efe20
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s00259-022-05997-1
+- id: doi:10.1007/S00259-022-05997-1
   title: "In vivo methods for imaging blood\u2013brain barrier function and dysfunction"
   authors:
   - William James Harris
@@ -1129,24 +1387,10 @@
   publisher: European Journal of Nuclear Medicine and Molecular Imaging
   date: '2022-11-28'
   link: https://doi.org/g9q2jh
-  orcid: 0000-0002-7994-1166
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.02.16.528529
-  title: Blood-brain barrier water exchange measurements using contrast-enhanced ASL
-  authors:
-  - Elizabeth Powell
-  - Ben R. Dickie
-  - Yolanda Ohene
-  - Geoff J. M. Parker
-  - Laura M. Parkes
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-16'
-  link: https://doi.org/gs2m49
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1098/rsif.2022.0406
+- id: doi:10.1098/RSIF.2022.0406
   title: 'Neurodegenerative disease of the brain: a survey of interdisciplinary approaches'
   authors:
   - Franca Davenport
@@ -1226,25 +1470,6 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1177/0271678X221108841
-  title: Quantitative kinetic modelling and mapping of cerebral glucose transport
-    and metabolism using glucoCESL MRI
-  authors:
-  - Ben R Dickie
-  - Tao Jin
-  - Ping Wang
-  - Rainer Hinz
-  - William Harris
-  - "Herv\xE9 Boutin"
-  - Geoff JM Parker
-  - Laura M Parkes
-  - Julian C Matthews
-  publisher: Journal of Cerebral Blood Flow &amp; Metabolism
-  date: '2022-06-23'
-  link: https://doi.org/g7vw5b
-  orcid: 0000-0002-7994-1166
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41598-022-21907-9
   title: Non-invasive brain stimulation modulates GABAergic activity in neurofibromatosis
     1
@@ -1267,55 +1492,21 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/texcom/tgac021
-  title: Neuroanatomical correlates of working memory performance in Neurofibromatosis
-    1
-  authors:
-  - Cameron Sawyer
-  - Jonathan Green
-  - Ben Lim
-  - Gorana Pobric
-  - JeYoung Jung
-  - Grace Vassallo
-  - D Gareth Evans
-  - Charlotte J Stagg
-  - Laura M Parkes
-  - Stavros Stivaros
-  - Nils Muhlert
-  - Shruti Garg
-  publisher: Cerebral Cortex Communications
-  date: '2022-04-01'
-  link: https://doi.org/g9882h
+- id: wosuid:WOS:000800913500009
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000800913500009
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mds.28934
-  title: "<scp>Neuromelanin\u2010MRI</scp> to Quantify and Track Nigral Depigmentation\
-    \ in Parkinson's Disease: A Multicenter Longitudinal Study Using Template\u2010\
-    Based Standardized Analysis"
-  authors:
-  - Yue Xing
-  - Abdul Halim Sapuan
-  - "Antonio Mart\xEDn\u2010Bastida"
-  - Saadnah Naidu
-  - Christopher Tench
-  - Jonathan Evans
-  - Gillian Sare
-  - Stefan T. Schwarz
-  - "Sarah Al\u2010bachari"
-  - Laura M. Parkes
-  - Sofia Kanavou
-  - Jason Raw
-  - Monty Silverdale
-  - Nin Bajaj
-  - Nicola Pavese
-  - David Burn
-  - Paola Piccini
-  - Donald G. Grosset
-  - Dorothee P. Auer
-  publisher: Movement Disorders
-  date: '2022-02-15'
-  link: https://doi.org/g9q8fk
+- id: wosuid:WOS:000802263300401
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000802263300401
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -1371,6 +1562,36 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/MDS.28934
+  title: "<scp>Neuromelanin\u2010MRI</scp> to Quantify and Track Nigral Depigmentation\
+    \ in Parkinson's Disease: A Multicenter Longitudinal Study Using Template\u2010\
+    Based Standardized Analysis"
+  authors:
+  - Yue Xing
+  - Abdul Halim Sapuan
+  - "Antonio Mart\xEDn\u2010Bastida"
+  - Saadnah Naidu
+  - Christopher Tench
+  - Jonathan Evans
+  - Gillian Sare
+  - Stefan T. Schwarz
+  - "Sarah Al\u2010bachari"
+  - Laura M. Parkes
+  - Sofia Kanavou
+  - Jason Raw
+  - Monty Silverdale
+  - Nin Bajaj
+  - Nicola Pavese
+  - David Burn
+  - Paola Piccini
+  - Donald G. Grosset
+  - Dorothee P. Auer
+  publisher: Movement Disorders
+  date: '2022-02-15'
+  link: https://doi.org/g9q8fk
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.58530/2022/1222
   title: Oxygen Extraction Fraction is higher in elderly participants with a higher
     cardiovascular disease risk; a combined QSM and ASL study
@@ -1394,23 +1615,23 @@
   orcid: 0000-0002-9911-8935
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/WNL.0000000000012834
-  title: Mechanisms of Network Changes in Cognitive Impairment in Multiple Sclerosis
+- id: doi:10.1177/0271678X221108841
+  title: Quantitative kinetic modelling and mapping of cerebral glucose transport
+    and metabolism using glucoCESL MRI
   authors:
-  - Danka Jandric
-  - Ilona Lipp
-  - David Paling
-  - David Rog
-  - Gloria Castellazzi
-  - Hamied Haroon
-  - Laura Parkes
-  - Geoff J.M. Parker
-  - Valentina Tomassini
-  - Nils Muhlert
-  publisher: Neurology
-  date: '2021-11-09'
-  link: https://doi.org/g3wj
-  orcid: 0000-0001-6488-507X
+  - Ben R Dickie
+  - Tao Jin
+  - Ping Wang
+  - Rainer Hinz
+  - William Harris
+  - "Herv\xE9 Boutin"
+  - Geoff JM Parker
+  - Laura M Parkes
+  - Julian C Matthews
+  publisher: Journal of Cerebral Blood Flow &amp; Metabolism
+  date: '2022-06-23'
+  link: https://doi.org/g7vw5b
+  orcid: 0000-0002-7994-1166
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mds.28706
@@ -1519,55 +1740,6 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mrm.28789
-  title: Optimization of quantitative susceptibility mapping for regional estimation
-    of oxygen extraction fraction in the brain
-  authors:
-  - John J. McFadden
-  - Julian C. Matthews
-  - Lauren A. Scott
-  - Geoff J. M. Parker
-  - "Ma\xE9l\xE8ne Loh\xE9zic"
-  - Laura M. Parkes
-  publisher: Magnetic Resonance in Medicine
-  date: '2021-03-29'
-  link: https://doi.org/g9q8fp
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1177/0271678X20978523
-  title: Characterisation of microvessel blood velocity and segment length in the
-    brain using multi-diffusion-time diffusion-weighted MRI
-  authors:
-  - Lauren A Scott
-  - Ben R Dickie
-  - Shelley D Rawson
-  - Graham Coutts
-  - Timothy L Burnett
-  - Stuart M Allan
-  - Geoff JM Parker
-  - Laura M Parkes
-  publisher: Journal of Cerebral Blood Flow &amp; Metabolism
-  date: '2020-12-16'
-  link: https://doi.org/g9q2jm
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/nbm.4510
-  title: "Alzheimer's disease pathology is associated with earlier alterations to\
-    \ blood\u2013brain barrier water permeability compared with healthy ageing in\
-    \ TgF344\u2010AD rats"
-  authors:
-  - Ben R. Dickie
-  - "Herv\xE9 Boutin"
-  - Geoff J. M. Parker
-  - Laura M. Parkes
-  publisher: NMR in Biomedicine
-  date: '2021-03-15'
-  link: https://doi.org/g9q2jj
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1136/bmjopen-2020-041808
   title: 'Protocol for DexEnceph: a randomised controlled trial of dexamethasone therapy
     in adults with herpes simplex virus encephalitis'
@@ -1598,19 +1770,6 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1192/bjo.2021.707
-  title: Glucose transporters in Alzheimer's disease
-  authors:
-  - Natalia Kyrtata
-  - Ben Dickie
-  - Hedley Emsley
-  - Laura Parkes
-  publisher: BJPsych Open
-  date: '2021-06-01'
-  link: https://doi.org/g9882k
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3389/fnins.2021.626636
   title: A Systematic Review of Glucose Transport Alterations in Alzheimer's Disease
   authors:
@@ -1625,17 +1784,36 @@
   orcid: 0000-0002-9911-8935
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fphys.2020.593026
-  title: "Blood\u2013Brain Barrier Leakage Is Increased in Parkinson\u2019s Disease"
+- id: doi:10.1002/NBM.4510
+  title: "Alzheimer's disease pathology is associated with earlier alterations to\
+    \ blood\u2013brain barrier water permeability compared with healthy ageing in\
+    \ TgF344\u2010AD rats"
   authors:
-  - Sarah Al-Bachari
-  - Josephine H. Naish
+  - Ben R. Dickie
+  - "Herv\xE9 Boutin"
   - Geoff J. M. Parker
-  - Hedley C. A. Emsley
   - Laura M. Parkes
-  publisher: Frontiers in Physiology
-  date: '2020-12-22'
-  link: https://doi.org/g9q8fr
+  publisher: NMR in Biomedicine
+  date: '2021-03-15'
+  link: https://doi.org/g9q2jj
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0271678X20978523
+  title: Characterisation of microvessel blood velocity and segment length in the
+    brain using multi-diffusion-time diffusion-weighted MRI
+  authors:
+  - Lauren A Scott
+  - Ben R Dickie
+  - Shelley D Rawson
+  - Graham Coutts
+  - Timothy L Burnett
+  - Stuart M Allan
+  - Geoff JM Parker
+  - Laura M Parkes
+  publisher: Journal of Cerebral Blood Flow &amp; Metabolism
+  date: '2020-12-16'
+  link: https://doi.org/g9q2jm
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -1659,6 +1837,142 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1192/BJO.2021.707
+  title: Glucose transporters in Alzheimer's disease
+  authors:
+  - Natalia Kyrtata
+  - Ben Dickie
+  - Hedley Emsley
+  - Laura Parkes
+  publisher: BJPsych Open
+  date: '2021-06-01'
+  link: https://doi.org/g9882k
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1212/WNL.0000000000012834
+  title: Mechanisms of Network Changes in Cognitive Impairment in Multiple Sclerosis
+  authors:
+  - Danka Jandric
+  - Ilona Lipp
+  - David Paling
+  - David Rog
+  - Gloria Castellazzi
+  - Hamied Haroon
+  - Laura Parkes
+  - Geoff J.M. Parker
+  - Valentina Tomassini
+  - Nils Muhlert
+  publisher: Neurology
+  date: '2021-11-09'
+  link: https://doi.org/g3wj
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MRM.28789
+  title: Optimization of quantitative susceptibility mapping for regional estimation
+    of oxygen extraction fraction in the brain
+  authors:
+  - John J. McFadden
+  - Julian C. Matthews
+  - Lauren A. Scott
+  - Geoff J. M. Parker
+  - "Ma\xE9l\xE8ne Loh\xE9zic"
+  - Laura M. Parkes
+  publisher: Magnetic Resonance in Medicine
+  date: '2021-03-29'
+  link: https://doi.org/g9q8fp
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fphys.2020.593026
+  title: "Blood\u2013Brain Barrier Leakage Is Increased in Parkinson\u2019s Disease"
+  authors:
+  - Sarah Al-Bachari
+  - Josephine H. Naish
+  - Geoff J. M. Parker
+  - Hedley C. A. Emsley
+  - Laura M. Parkes
+  publisher: Frontiers in Physiology
+  date: '2020-12-22'
+  link: https://doi.org/g9q8fr
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000577424101189
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000577424101189
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ISCI.2020.101657
+  title: GABA Modulates Frequency-Dependent Plasticity in Humans
+  authors:
+  - Caroline A. Lea-Carnall
+  - Stephen R. Williams
+  - Faezeh Sanaei-Nezhad
+  - Nelson J. Trujillo-Barreto
+  - Marcelo A. Montemurro
+  - Wael El-Deredy
+  - Laura M. Parkes
+  publisher: iScience
+  date: '2020-11-01'
+  link: https://doi.org/gmfxkn
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PNMRS.2019.09.002
+  title: Measuring water exchange across the blood-brain barrier using MRI
+  authors:
+  - Ben R. Dickie
+  - Geoff J.M. Parker
+  - Laura M. Parkes
+  publisher: Progress in Nuclear Magnetic Resonance Spectroscopy
+  date: '2020-02-01'
+  link: https://doi.org/g9q2jq
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/EJN.14618
+  title: Number of subjects required in common study designs for functional GABA magnetic
+    resonance spectroscopy in the human brain at 3 Tesla
+  authors:
+  - Faezeh Sanaei Nezhad
+  - "Caroline A. Lea\u2010Carnall"
+  - Adriana Anton
+  - JeYoung Jung
+  - Emilia Michou
+  - Stephen R. Williams
+  - Laura M. Parkes
+  publisher: European Journal of Neuroscience
+  date: '2019-12-11'
+  link: https://doi.org/gm67hx
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.YEBEH.2019.06.039
+  title: Seizures in the context of occult cerebrovascular disease
+  authors:
+  - Hedley C.A. Emsley
+  - Laura M. Parkes
+  publisher: Epilepsy &amp; Behavior
+  date: '2020-03-01'
+  link: https://doi.org/gh3bv2
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000486182000497
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000486182000497
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/NSS/MIC42101.2019.9059939
   title: Evaluation of the Benefit of Partial Volume Correction for High Resolution
     PET Scanners
@@ -1675,30 +1989,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.pnmrs.2019.09.002
-  title: Measuring water exchange across the blood-brain barrier using MRI
-  authors:
-  - Ben R. Dickie
-  - Geoff J.M. Parker
-  - Laura M. Parkes
-  publisher: Progress in Nuclear Magnetic Resonance Spectroscopy
-  date: '2020-02-01'
-  link: https://doi.org/g9q2jq
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.yebeh.2019.06.039
-  title: Seizures in the context of occult cerebrovascular disease
-  authors:
-  - Hedley C.A. Emsley
-  - Laura M. Parkes
-  publisher: Epilepsy &amp; Behavior
-  date: '2020-03-01'
-  link: https://doi.org/gh3bv2
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2018.09.030
+- id: doi:10.1016/J.NEUROIMAGE.2018.09.030
   title: Water-exchange MRI detects subtle blood-brain barrier breakdown in Alzheimer's
     disease rats
   authors:
@@ -1714,23 +2005,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/nbm.3847
-  title: "Quantification of GABA, glutamate and glutamine in a single measurement\
-    \ at 3\_T using GABA\u2010edited MEGA\u2010PRESS"
-  authors:
-  - Faezeh Sanaei Nezhad
-  - Adriana Anton
-  - Emilia Michou
-  - JeYoung Jung
-  - Laura M. Parkes
-  - Stephen R. Williams
-  publisher: NMR in Biomedicine
-  date: '2017-11-12'
-  link: https://doi.org/g9q8fv
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/jon.12477
+- id: doi:10.1111/JON.12477
   title: "Assessing Inflammation in Acute Intracerebral Hemorrhage with PK11195 PET\
     \ and Dynamic Contrast\u2010Enhanced MRI"
   authors:
@@ -1768,7 +2043,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.clineuro.2018.02.013
+- id: doi:10.1016/J.CLINEURO.2018.02.013
   title: "Extracranial arterial wall volume is increased and shows relationships with\
     \ vascular MRI measures in idiopathic Parkinson\u2019s disease"
   authors:
@@ -1783,7 +2058,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2018.04.029
+- id: doi:10.1016/J.NEUROIMAGE.2018.04.029
   title: Identification of memory reactivation during sleep by EEG classification
   authors:
   - Suliman Belal
@@ -1802,7 +2077,32 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13229-018-0190-z
+- id: wosuid:WOS:000440013700274
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000440013700274
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/NBM.3847
+  title: "Quantification of GABA, glutamate and glutamine in a single measurement\
+    \ at 3\_T using GABA\u2010edited MEGA\u2010PRESS"
+  authors:
+  - Faezeh Sanaei Nezhad
+  - Adriana Anton
+  - Emilia Michou
+  - JeYoung Jung
+  - Laura M. Parkes
+  - Stephen R. Williams
+  publisher: NMR in Biomedicine
+  date: '2017-11-12'
+  link: https://doi.org/g9q8fv
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S13229-018-0190-Z
   title: Randomised controlled trial of simvastatin treatment for autism in young
     children with neurofibromatosis type 1 (SANTA)
   authors:
@@ -1833,22 +2133,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/NSSMIC.2017.8532918
-  title: Validation of a realistic simulation of the HRRT using SimSET
-  authors:
-  - Evangelos Raptis
-  - Laura M. Parkes
-  - Jose Anton-Rodriguez
-  - Stephen F. Carter
-  - Karl Herholz
-  - Julian C. Matthews
-  publisher: 2017 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)
-  date: '2017-10-01'
-  link: https://doi.org/g9q8fx
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0170215
+- id: doi:10.1371/JOURNAL.PONE.0170215
   title: A Feasibility Study of Quantifying Longitudinal Brain Changes in Herpes Simplex
     Virus (HSV) Encephalitis Using Magnetic Resonance Imaging (MRI) and Stereology
   authors:
@@ -1868,7 +2153,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.cortex.2016.11.002
+- id: doi:10.1016/J.CORTEX.2016.11.002
   title: Arterial spin labelling shows functional depression of non-lesion tissue
     in chronic Wernicke's aphasia
   authors:
@@ -1885,7 +2170,62 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mrm.26532
+- id: wosuid:WOS:000400157400734
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000400157400734
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/PNAS.1620988114
+  title: Evidence for frequency-dependent cortical plasticity in the human brain
+  authors:
+  - Caroline A. Lea-Carnall
+  - Nelson J. Trujillo-Barreto
+  - Marcelo A. Montemurro
+  - Wael El-Deredy
+  - Laura M. Parkes
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-08-01'
+  link: https://doi.org/gbtsbs
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JNNP-2017-ABN.103
+  title: "PO071\u2005Mri assessment of neurovascular changes in idiopathic parkinson\u2019\
+    s disease"
+  authors:
+  - Sarah Al-Bachari
+  - Rishma Vidyasagar
+  - Hedley Emsley
+  - Laura Parkes
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2017-12-01'
+  link: https://doi.org/hbggxt
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000400157400733
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000400157400733
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000407425300563
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000407425300563
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MRM.26532
   title: "Quantification of glutathione in the human brain by <scp>MR</scp> spectroscopy\
     \ at 3 <scp>T</scp>esla: Comparison of <scp>PRESS</scp> and <scp>MEGA\u2010PRESS</scp>"
   authors:
@@ -1914,6 +2254,21 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/NSSMIC.2017.8532918
+  title: Validation of a realistic simulation of the HRRT using SimSET
+  authors:
+  - Evangelos Raptis
+  - Laura M. Parkes
+  - Jose Anton-Rodriguez
+  - Stephen F. Carter
+  - Karl Herholz
+  - Julian C. Matthews
+  publisher: 2017 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)
+  date: '2017-10-01'
+  link: https://doi.org/g9q8fx
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
 - title: The challenges of arterial spin labelling MRI in the medial temporal lobe
   publisher: 22nd Annual Scientific Meeting of the British Chapter of the ISMRM, Leeds,
     United Kingdom, 7/09/16
@@ -1938,7 +2293,30 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pbio.1002451
+- id: wosuid:WOS:000379749000676
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000379749000676
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PCBI.1004740
+  title: Cortical Resonance Frequencies Emerge from Network Size and Connectivity
+  authors:
+  - Caroline A. Lea-Carnall
+  - Marcelo A. Montemurro
+  - Nelson J. Trujillo-Barreto
+  - Laura M. Parkes
+  - Wael El-Deredy
+  publisher: PLOS Computational Biology
+  date: '2016-02-25'
+  link: https://doi.org/f8twmw
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PBIO.1002451
   title: Cued Reactivation of Motor Learning during Sleep Leads to Overnight Changes
     in Functional Brain Activity and Connectivity
   authors:
@@ -1953,7 +2331,25 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1259/bjr.20150624
+- id: wosuid:WOS:000440408200112
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000440408200112
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000382568400324
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000382568400324
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1259/BJR.20150624
   title: "Quantitative measurement of blood flow in paediatric brain tumours\u2014\
     a comparative study of dynamic susceptibility contrast and multi time-point arterial\
     \ spin labelled MRI"
@@ -1969,7 +2365,16 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/infdis/jiv771
+- id: wosuid:WOS:000425754400390
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000425754400390
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/INFDIS/JIV771
   title: The Interleukin-1 Balance During Encephalitis Is Associated With Clinical
     Severity, Blood-Brain Barrier Permeability, Neuroimaging Changes, and Disease
     Outcome
@@ -1999,7 +2404,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2015.05.067
+- id: doi:10.1016/J.NEUROIMAGE.2015.05.067
   title: Dual-echo fMRI can detect activations in inferior temporal lobe during intelligible
     speech comprehension
   authors:
@@ -2012,7 +2417,16 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mrm.25197
+- id: wosuid:WOS:000356598200002
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000356598200002
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MRM.25197
   title: "Recommended implementation of arterial spin\u2010labeled perfusion MRI for\
     \ clinical applications: A consensus of the ISMRM perfusion study group and the\
     \ European consortium for ASL in dementia"
@@ -2037,7 +2451,22 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.nicl.2015.07.016
+- id: doi:10.1136/JNNP-2015-312379.169
+  title: SIMILARITIES IN ARTERIAL ARRIVAL TIME PROLONGATION AND POSTERIOR HYPOPERFUSION
+    IN PATIENTS WITH IDIOPATHIC PARKINSON'S DISEASE AND STROKE
+  authors:
+  - Sarah Al-Bachari
+  - Rishma Vidyasagar
+  - Monty Silverdale
+  - Hedley Emsley
+  - Laura Parkes
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2015-10-14'
+  link: https://doi.org/hbggxv
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NICL.2015.07.016
   title: Structural and physiological MRI correlates of occult cerebrovascular disease
     in late-onset epilepsy
   authors:
@@ -2053,7 +2482,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/cercor/bhu326
+- id: doi:10.1093/CERCOR/BHU326
   title: Validation of High-Resolution Tractography Against<i>In Vivo</i>Tracing in
     the Macaque Visual Cortex
   authors:
@@ -2068,14 +2497,6 @@
   publisher: Cerebral Cortex
   date: '2015-03-18'
   link: https://doi.org/f74hbh
-  orcid: 0000-0001-6488-507X
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Detecting Memory Replay During Sleep
-  publisher: Congress of the European Sleep Research Society (ESRS), Tallinn, Estonia.,
-    16/09/14
-  date: '2024-06-03'
-  link: https://research.manchester.ac.uk/en/publications/331dcc1a-4ede-4c78-b1e9-0ddfe2bd6f98
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -2109,7 +2530,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/hbm.22463
+- id: doi:10.1002/HBM.22463
   title: "A comparison of dual gradient\u2010echo and spin\u2010echo fMRI of the inferior\
     \ temporal lobe"
   authors:
@@ -2123,7 +2544,22 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.nicl.2014.07.014
+- id: doi:10.2147/PPA.S54986
+  title: An observational, retrospective, UK and Ireland audit of patient adherence
+    to subcutaneous interferon beta-1a injections using the RebiSmart&amp;reg; injection
+    device
+  authors:
+  - Helen Willis
+  - Julie Webster
+  - Anne Marie Larkin
+  - Laura Parkes
+  publisher: Patient Preference and Adherence
+  date: '2014-06-01'
+  link: https://doi.org/gkncz7
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NICL.2014.07.014
   title: Arterial spin labelling reveals prolonged arterial arrival time in idiopathic
     Parkinson's disease
   authors:
@@ -2137,6 +2573,24 @@
   publisher: 'NeuroImage: Clinical'
   date: '2014-01-01'
   link: https://doi.org/f626nq
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000433203502162
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000433203502162
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000395028800513
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000395028800513
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -2155,7 +2609,16 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s00247-014-2911-6
+- id: wosuid:WOS:000349960600494
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000349960600494
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S00247-014-2911-6
   title: 'Effect of thyroxine on brain microstructure in extremely premature babies:
     magnetic resonance imaging findings in the TIPIT study'
   authors:
@@ -2176,7 +2639,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/jcbfm.2014.25
+- id: doi:10.1038/JCBFM.2014.25
   title: Late-Onset Epilepsy and Occult Cerebrovascular Disease
   authors:
   - Lorna M Gibson
@@ -2191,7 +2654,30 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2014.01.052
+- id: doi:10.2147/PPA.S46421
+  title: 'Patient expectations and experiences of multiple sclerosis interferon &amp;szlig;-1a
+    treatment: a longitudinal, observational study in routine UK clinical practice'
+  authors:
+  - Mehmood Syed
+  - David Rog
+  - ' Parkes'
+  - Gillian Shepherd
+  publisher: Patient Preference and Adherence
+  date: '2014-02-01'
+  link: https://doi.org/hbggxw
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000337979300374
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000337979300374
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUROIMAGE.2014.01.052
   title: 'Re-wiring the brain: Increased functional connectivity within primary somatosensory
     cortex following synchronous co-activation'
   authors:
@@ -2221,6 +2707,72 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1136/JNNP-2014-309236.124
+  title: 'THE BBB IN ENCEPHALITIS: INFLAMMATION &amp; A ROLE FOR STEROIDS?'
+  authors:
+  - Adjanie Patabendige
+  - Sylviane Defres
+  - Simon Keller
+  - Rishma Vidyasagar
+  - Benedict Michael
+  - Kumar Das
+  - Neil Roberts
+  - Laura Parkes
+  - Alister Craig
+  - Tom Solomon
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2014-09-09'
+  link: https://doi.org/hbggxx
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JNNP-2013-306573.95
+  title: ALTERATIONS IN STRUCTURAL AND HAEMODYNAMIC CEREBROVASCULAR MEASURES IN LATE
+    ONSET EPILEPSY
+  authors:
+  - Martha Hanby
+  - Sam Fairclough
+  - Fadiyah Makin
+  - "Sarah Al\u2013Bachari"
+  - Rishma Vidyasagar
+  - Laura Parkes
+  - Hedley Emsley
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2013-10-09'
+  link: https://doi.org/hbggxz
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JNNP-2013-306573.190
+  title: "BASELINE RESPONSES OF MULTIPLE SCLEROSIS PATIENTS PARTICIPATING IN THE PROMS\
+    \ SURVEY: IMPACT OF DISEASE\u2013MODIFYING THERAPIES AND SUPPORT SERVICES ON PATIENT\u2013\
+    REPORTED OUTCOMES"
+  authors:
+  - Simon Shields
+  - Laura Parkes
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2013-10-09'
+  link: https://doi.org/hbggx2
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JNNP-2013-306573.169
+  title: "CLINICAL PHENOTYPE\u2013SPECIFIC DIFFERENCES IN CEREBRAL HAEMODYNAMICS IN\
+    \ IDIOPATHIC PARKINSON'S DISEASE"
+  authors:
+  - "Sarah Al\u2013Bachari"
+  - Laura Parkes
+  - Rishma Vidyasagar
+  - Martha Hanby
+  - Vivek Tharaken
+  - Iracema Leroi
+  - Hedley Emsley
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2013-10-09'
+  link: https://doi.org/hbggx3
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1155/2013/694803
   title: Impact of Gas Delivery Systems on Imaging Studies of Human Cerebral Blood
     Flow
@@ -2236,7 +2788,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.clineuro.2012.07.009
+- id: doi:10.1016/J.CLINEURO.2012.07.009
   title: Prevalence and subtypes of radiological cerebrovascular disease in late-onset
     isolated seizures and epilepsy
   authors:
@@ -2252,7 +2804,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0078844
+- id: doi:10.1371/JOURNAL.PONE.0078844
   title: 'The Queen and I: Neural Correlates of Altered Self-Related Cognitions in
     Major Depressive Episode'
   authors:
@@ -2267,7 +2819,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/jcbfm.2013.40
+- id: doi:10.1038/JCBFM.2013.40
   title: The Effect of Black Tea and Caffeine on Regional Cerebral Blood Flow Measured
     with Arterial Spin Labeling
   authors:
@@ -2291,7 +2843,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2011.07.092
+- id: doi:10.1016/J.NEUROIMAGE.2011.07.092
   title: Calibrated fMRI during a cognitive Stroop task reveals reduced metabolic
     response with increasing age
   authors:
@@ -2304,6 +2856,15 @@
   publisher: NeuroImage
   date: '2012-01-01'
   link: https://doi.org/fdk7dw
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000312996500254
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000312996500254
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -2320,7 +2881,22 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1162/jocn_a_00173
+- id: doi:10.2147/PPA.S26250
+  title: 'Patient assessment of an electronic device for subcutaneous self-injection
+    of interferon &amp;szlig;-1a for multiple sclerosis: an observational study in
+    the UK and Ireland'
+  authors:
+  - Caroline D'Arcy
+  - ' Thomas'
+  - ' Stoneman'
+  - ' Parkes'
+  publisher: Patient Preference and Adherence
+  date: '2012-01-01'
+  link: https://doi.org/fz26xs
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/JOCN_A_00173
   title: "Premotor Cortex Is Sensitive to Auditory\u2013Visual Congruence for Biological\
     \ Motion"
   authors:
@@ -2336,7 +2912,16 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroscience.2012.01.016
+- id: wosuid:WOS:000308612400201
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000308612400201
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUROSCIENCE.2012.01.016
   title: 'The effect of sex and handedness on white matter anisotropy: a diffusion
     tensor magnetic resonance imaging study'
   authors:
@@ -2360,7 +2945,25 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1259/bjr/55166688
+- id: doi:10.1038/PR.2011.374
+  title: Diffusion Tensor Imaging of the Internal Capsule and Corpus Callosum of Preterm
+    Infants Born Under 28 Weeks Gestation
+  authors:
+  - J J Atkinson
+  - L M Parkes
+  - C Gamble
+  - S M Ng
+  - M Turner
+  - A M Weindling
+  - L J Abernethy
+  - V Sluming
+  publisher: Pediatric Research
+  date: '2011-11-01'
+  link: https://doi.org/hbggx5
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1259/BJR/55166688
   title: 'Dynamic contrast-enhanced imaging techniques: CT and MRI'
   authors:
   - J P B O'Connor
@@ -2375,7 +2978,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/jmri.22391
+- id: doi:10.1002/JMRI.22391
   title: Increased gray matter volume of left pars opercularis in male orchestral
     musicians correlate positively with years of musical performance
   authors:
@@ -2403,7 +3006,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s12311-011-0274-1
+- id: doi:10.1007/S12311-011-0274-1
   title: Plasticity of the Superior and Middle Cerebellar Peduncles in Musicians Revealed
     by Quantitative Analysis of Volume and Number of Streamlines Based on Diffusion
     Tensor Tractography
@@ -2423,7 +3026,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/jmri.22758
+- id: doi:10.1002/JMRI.22758
   title: Reproducibility of functional MRI localization within the human somatosensory
     cortex
   authors:
@@ -2432,6 +3035,30 @@
   publisher: Journal of Magnetic Resonance Imaging
   date: '2011-09-29'
   link: https://doi.org/c4mxnm
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1185/03007995.2011.576237
+  title: Retrospective, observational data collection of the treatment of phenylketonuria
+    in the UK, and associated clinical and health outcomes
+  authors:
+  - A. MacDonald
+  - K. Nanuwa
+  - L. Parkes
+  - M. Nathan
+  - D. Chauhan
+  publisher: Current Medical Research and Opinion
+  date: '2011-04-19'
+  link: https://doi.org/d7kkgh
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000316026300034
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000316026300034
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -2455,7 +3082,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2009.10.020
+- id: doi:10.1016/J.NEUROIMAGE.2009.10.020
   title: A multimodal brain imaging study of repetition suppression in the human visual
     cortex
   authors:
@@ -2468,14 +3095,31 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Unique Hues: Perception and brain imaging'
-  publisher: Progress in Colour Studies
-  date: '2024-06-03'
-  link: https://research.manchester.ac.uk/en/publications/c10dad54-7366-4bc0-bfe7-664952dfe9a0
+- id: doi:10.1016/S1098-3015(10)74848-8
+  title: PSY5 A RETROSPECTIVE CHART REVIEW OF THE TREATMENT OF PHENYLKETONURIA IN
+    THE UK AND ASSOCIATED CLINICAL AND HEALTH OUTCOMES
+  authors:
+  - C Walters
+  - D Chauhan
+  - L Parkes
+  - A Chakrapani
+  - A MacDonald
+  publisher: Value in Health
+  date: '2009-10-01'
+  link: https://doi.org/dr4853
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1148/radiol.2512081548
+- id: wosuid:WOS:000269862100151
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000269862100151
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1148/RADIOL.2512081548
   title: 'Depressive Disorders: Focally Altered Cerebral Perfusion Measured with Arterial
     Spin-labeling MR Imaging'
   authors:
@@ -2515,7 +3159,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2009.04.064
+- id: doi:10.1016/J.NEUROIMAGE.2009.04.064
   title: 'Quantitative fMRI using hyperoxia calibration: Reproducibility during a
     cognitive Stroop task'
   authors:
@@ -2530,7 +3174,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/jmri.21932
+- id: doi:10.1002/JMRI.21932
   title: 'Regional corpus callosum morphometry: Effect of field strength and pulse
     sequence'
   authors:
@@ -2544,7 +3188,16 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/cmmi.241
+- id: wosuid:WOS:000207905000279
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000207905000279
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/CMMI.241
   title: "Cobalt nanoparticles as a novel magnetic resonance contrast agent\u2014\
     relaxivities at 1.5 and 3 Tesla"
   authors:
@@ -2558,6 +3211,15 @@
   publisher: Contrast Media &amp; Molecular Imaging
   date: '2008-07-01'
   link: https://doi.org/fw8x78
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000255747000378
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000255747000378
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -2584,7 +3246,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mrm.21129
+- id: doi:10.1002/MRM.21129
   title: Inability to directly detect magnetic field changes associated with neuronal
     activity
   authors:
@@ -2599,7 +3261,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2005.08.018
+- id: doi:10.1016/J.NEUROIMAGE.2005.08.018
   title: Combining EEG and fMRI to investigate the post-movement beta rebound
   authors:
   - Laura M. Parkes
@@ -2611,7 +3273,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2005.08.043
+- id: doi:10.1016/J.NEUROIMAGE.2005.08.043
   title: Localizing human visual gamma-band activity in frequency, time and space
   authors:
   - Nienke Hoogenboom
@@ -2625,7 +3287,16 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/jmri.20456
+- id: wosuid:WOS:000229501301052
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000229501301052
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/JMRI.20456
   title: "Quantification of cerebral perfusion using arterial spin labeling: Two\u2010\
     compartment models"
   authors:
@@ -2636,7 +3307,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mrm.20712
+- id: doi:10.1002/MRM.20712
   title: Quantifying the spatial resolution of the gradient echo and spin echo BOLD
     response at 3 Tesla
   authors:
@@ -2653,7 +3324,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1136/jnnp.2003.026021
+- id: doi:10.1136/JNNP.2003.026021
   title: Abnormalities of cerebral perfusion in multiple sclerosis
   authors:
   - W Rashid
@@ -2663,7 +3334,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mrm.20023
+- id: doi:10.1002/MRM.20023
   title: 'Normal cerebral perfusion measurements using arterial spin labeling: Reproducibility,
     stability, and age and gender effects'
   authors:
@@ -2677,7 +3348,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2003.08.025
+- id: doi:10.1016/J.NEUROIMAGE.2003.08.025
   title: Reduced BOLD response to periodic visual stimulation
   authors:
   - Laura M Parkes
@@ -2708,7 +3379,7 @@
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mrm.10180
+- id: doi:10.1002/MRM.10180
   title: 'Improved accuracy of human cerebral blood perfusion measurements using arterial
     spin labeling: Accounting for capillary water permeability'
   authors:
@@ -2717,6 +3388,15 @@
   publisher: Magnetic Resonance in Medicine
   date: '2002-06-27'
   link: https://doi.org/fwwnq2
+  orcid: 0000-0001-6488-507X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000177059900105
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000177059900105
   orcid: 0000-0001-6488-507X
   plugin: orcid.py
   file: orcid.yaml
@@ -2823,6 +3503,47 @@
   publisher: Journal of Cerebral Blood Flow &amp; Metabolism
   date: '2025-02-07'
   link: https://doi.org/g9q2jc
+  orcid: 0000-0002-7994-1166
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12987-023-00422-7
+  title: "Filter exchange imaging with crusher gradient modelling detects increased\
+    \ blood\u2013brain barrier water permeability in response to mild lung infection"
+  authors:
+  - Yolanda Ohene
+  - William J. Harris
+  - Elizabeth Powell
+  - Nina W. Wycech
+  - Katherine F. Smethers
+  - "Samo Lasi\u010D"
+  - Kieron South
+  - Graham Coutts
+  - Andrew Sharp
+  - Catherine B. Lawrence
+  - "Herv\xE9 Boutin"
+  - Geoff J. M. Parker
+  - Laura M. Parkes
+  - Ben R. Dickie
+  publisher: Fluids and Barriers of the CNS
+  date: '2023-04-03'
+  link: https://doi.org/g9q8gd
+  orcid: 0000-0002-7994-1166
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00259-022-05997-1
+  title: "In vivo methods for imaging blood\u2013brain barrier function and dysfunction"
+  authors:
+  - William James Harris
+  - Marie-Claude Asselin
+  - Rainer Hinz
+  - Laura Michelle Parkes
+  - Stuart Allan
+  - Ingo Schiessl
+  - Herve Boutin
+  - Ben Robert Dickie
+  publisher: European Journal of Nuclear Medicine and Molecular Imaging
+  date: '2022-11-28'
+  link: https://doi.org/g9q2jh
   orcid: 0000-0002-7994-1166
   plugin: orcid.py
   file: orcid.yaml

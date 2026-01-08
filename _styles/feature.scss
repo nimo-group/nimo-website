@@ -5,15 +5,15 @@ $wrap: 800px;
 
 .feature {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   gap: 40px;
   margin: 40px 0;
 }
 
 .feature-image {
   flex-shrink: 0;
-  width: 40%;
+  width: 30%;
   aspect-ratio: 3 / 2;
   border-radius: var(--rounded);
   overflow: hidden;
@@ -28,11 +28,12 @@ $wrap: 800px;
 
 .feature-text {
   flex-grow: 1;
+  text-align: left;
 }
 
 .feature-title {
   font-size: var(--large);
-  text-align: center;
+  text-align: left;
   font-family: var(--heading);
   font-weight: var(--semi-bold);
 }

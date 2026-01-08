@@ -11,6 +11,7 @@ input[type=text] {
   font-size: inherit;
   appearance: none;
   box-shadow: var(--shadow);
+  text-align: center;
 }
 
 /*# sourceMappingURL=textbox.css.map */

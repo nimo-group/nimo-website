@@ -1,16 +1,18 @@
 ---
 ---
 
-# **N**euro**I**maging and **MO**delling group 
+<div style="text-align: center; font-size: 50px;">
+<strong>N</strong>euro<strong>I</strong>maging and <strong>MO</strong>delling group
+</div>
 
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 24px; margin-bottom: 8rem;">
 Our research focusses on development and application of neuroimaging and modelling approaches to study brain physiology.
 </div>
-## Highlights
+
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Take a look at our most recent publications.
 
 {%
   include button.html
@@ -25,15 +27,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publications.png"
   link="research"
-  title="Our Research"
+  title="Research"
+  flip=false
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ongoing projects across NIMO teams applying diverse quantitative MRI methods in both clinical and preclinical settings.
 
 {%
   include button.html
@@ -48,17 +52,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
-  title="Our Projects"
-  flip=true
+  title="Projects"
+  flip=false
   style="bare"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team brings together PIs, technical specialists, postdoctoral researchers, and PhD students from a wide range of scientific backgrounds.
 
 {%
   include button.html
@@ -73,8 +77,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
-  title="Our Team"
+  title="Team"
+  flip=false
   text=text
 %}

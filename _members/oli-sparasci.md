@@ -1,6 +1,6 @@
 ---
 name: Oliver Sparasci
-image: images/member-photos/BW/Oli_Sparasci.jpg
+image: images/member-photos/BW/Oli_Sparasci.JPG
 role: postdoc
 description: Clinical Research Fellow
 group: Parkes

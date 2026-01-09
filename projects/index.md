@@ -9,10 +9,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 <div style="text-align: center; font-size: 20px;">
-
-
 </div>
- 
 
 
 {% include tags.html tags="publication, resource, website" %}
@@ -23,10 +20,14 @@ nav:
 
 ## Clinical
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projectsall" style="small" filter="group == 'clinical'" %}
 
 {% include section.html %}
 
 ## Preclinical
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projectsall" style="small" filter="group == 'preclinical'" %}
+
+{% include section.html %}
+
+<!-- {% include list.html component="card" data="projects" filter="!group" style="small" %} -->

@@ -1,6 +1,6 @@
 ---
 name: Paulina Villasenor
-i.'/;.,/mage: images/photo.jpg
+image: images/member-photos/BW/paulina-villasenor2.jpeg
 role: phd
 description: PhD Student
 group: Dickie
